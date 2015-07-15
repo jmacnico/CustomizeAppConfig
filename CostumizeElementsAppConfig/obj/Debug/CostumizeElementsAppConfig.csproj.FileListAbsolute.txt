@@ -1,0 +1,6 @@
+C:\Users\jmalmeida\Desktop\Repositorio\CostumizeElementsAppConfig\CostumizeElementsAppConfig\bin\Debug\CostumizeElementsAppConfig.exe.config
+C:\Users\jmalmeida\Desktop\Repositorio\CostumizeElementsAppConfig\CostumizeElementsAppConfig\bin\Debug\CostumizeElementsAppConfig.exe
+C:\Users\jmalmeida\Desktop\Repositorio\CostumizeElementsAppConfig\CostumizeElementsAppConfig\bin\Debug\CostumizeElementsAppConfig.pdb
+C:\Users\jmalmeida\Desktop\Repositorio\CostumizeElementsAppConfig\CostumizeElementsAppConfig\obj\Debug\CostumizeElementsAppConfig.csprojResolveAssemblyReference.cache
+C:\Users\jmalmeida\Desktop\Repositorio\CostumizeElementsAppConfig\CostumizeElementsAppConfig\obj\Debug\CostumizeElementsAppConfig.exe
+C:\Users\jmalmeida\Desktop\Repositorio\CostumizeElementsAppConfig\CostumizeElementsAppConfig\obj\Debug\CostumizeElementsAppConfig.pdb
